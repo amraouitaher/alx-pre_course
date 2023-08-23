@@ -1,6 +1,12 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool! School"
 =======
 echo "ALX School is so cool! School is so cool! School is so cool! School"
 >>>>>>> origin/main
+=======
+
+echo "ALX School is so cool! School"
+echo "ALX School is so cool! School is so cool! School is so cool! School"
+>>>>>>> c8e8934a33ed89c635ffe224a1fd51f4636ec4ba
